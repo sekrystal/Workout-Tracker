@@ -1,6 +1,5 @@
 # Workout Tracker
-
-A modern iOS workout tracking application built with SwiftUI that helps users track their fitness journey, manage workouts, and monitor progress.
+Privacy-friendly iOS workout tracking application built with SwiftUI that helps users track their fitness journey, manage workouts, and monitor progress.
 
 ## Features
 
